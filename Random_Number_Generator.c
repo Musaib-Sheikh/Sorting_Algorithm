@@ -10,7 +10,7 @@
 // 0 to (max_range-1)
 
 int main() {
-    FILE *file = fopen("numbers.txt", "w");
+    FILE *file = fopen("Random_Number_Generator.txt", "w");
     if (file == NULL) {
         perror("Ops!");
         return 1;
