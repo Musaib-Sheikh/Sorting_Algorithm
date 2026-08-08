@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <time.h>
 #define random_number 100 // how many random number you want
-#define max_range 100 // maximum range of your random number
+#define max_range 10 // maximum range of your random number
 // 0 to (max_range-1)
 
 int main() {
